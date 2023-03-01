@@ -1,0 +1,4 @@
+wait/2;
+jab/3;
+jumpforward/1;
+jumpdropkick/1;
